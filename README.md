@@ -19,9 +19,11 @@ The analysis combines spatial-temporal techniques, statistical modeling, and mac
 Data Preparation
 - Data cleaning and transformation using Python (Pandas, NumPy).
 - Merging FEMA disaster records with BTS border crossing data.
+
 Exploratory Data Analysis (EDA)
 - Identifying trends in border activity over time.
 - Visualizing seasonal and disaster-related disruptions.
+
 Modeling Approaches
 - Statistical Forecasting: ARIMA/SARIMA for traffic prediction.
 - Machine Learning Models: Random Forest, Gradient Boosting, or Poisson Regression for impact quantification.
